@@ -1,0 +1,11 @@
+flask
+flask-cors
+tensorflow-cpu
+numpy
+pillow
+flask-sqlalchemy
+sqlalchemy
+reportlab
+matplotlib
+pandas
+python-dotenv
