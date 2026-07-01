@@ -1,75 +1,72 @@
-# Welcome to your Lovable project
+# 🌾 Early Detection of Wheat Diseases
 
-## Project info
+An AI-powered web application designed to detect wheat leaf diseases at an early stage using image analysis. The platform helps farmers and agricultural professionals identify diseases quickly, enabling timely treatment and reducing crop losses.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌐 Live Demo
 
-There are several ways of editing your application.
+🔗 **[Launch Application](YOUR_DEPLOYED_LINK)**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🌾 Upload wheat leaf images for disease detection
+- 🤖 AI-powered disease prediction
+- 📊 Displays prediction results with confidence
+- 📷 Simple image upload interface
+- 📱 Responsive design for desktop and mobile
+- ⚡ Fast and user-friendly experience
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Technologies Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Project Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+├── src
+├── public
+├── components
+├── assets
+├── package.json
+└── README.md
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 💡 Future Enhancements
 
-**Use GitHub Codespaces**
+- Multiple disease detection
+- Treatment recommendations
+- Farmer dashboard
+- Weather integration
+- Mobile application
+- Cloud database support
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 👨‍💻 Author
 
-This project is built with:
+**Raghul T**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📧 Email: raghul1472005@gmail.com
 
-## How can I deploy this project?
+💼 LinkedIn: https://www.linkedin.com/in/raghul-t77/
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+💻 GitHub: https://github.com/raghul77
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## ⭐ Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-# Early-Detection-of-Wheat-Diseases
-# Early-Detection-of-Wheat-Diseases
+If you found this project useful, consider giving it a ⭐ on GitHub.
