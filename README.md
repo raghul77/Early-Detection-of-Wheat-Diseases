@@ -3,10 +3,9 @@
 An AI-powered web application designed to detect wheat leaf diseases at an early stage using image analysis. The platform helps farmers and agricultural professionals identify diseases quickly, enabling timely treatment and reducing crop losses.
 
 ---
-
 ## 🌐 Live Demo
 
-🔗 **[Launch Application](YOUR_DEPLOYED_LINK)**
+🔗 **[Launch Application](https://early-detection-of-wheat-diseases.vercel.app)**
 
 ---
 
